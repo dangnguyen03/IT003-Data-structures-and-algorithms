@@ -1,0 +1,10 @@
+REACT_APP_API_LOGIN=http://localhost:9000/v1/auth/login
+REACT_APP_API_REGISTER=http://localhost:9000/v1/auth/register 
+REACT_APP_API_LOGOUT=http://localhost:9000/v1/auth/logout
+
+REACT_APP_API_WEBCAM=http://localhost:8000/video_feed
+
+REACT_APP_API_TB_HOURS=http://localhost:9000/api/data/getAverage
+REACT_APP_API_ADD_RASP=http://localhost:9000/api/add/addRasp
+
+REACT_APP_SOCKET=http://localhost:9000
